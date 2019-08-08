@@ -1,0 +1,14 @@
+E:\Csharp_projects\PRN292_Project\PRN292_Project\bin\Debug\PRN292_Project.exe
+E:\Csharp_projects\PRN292_Project\PRN292_Project\bin\Debug\PRN292_Project.pdb
+E:\Csharp_projects\PRN292_Project\PRN292_Project\obj\Debug\PRN292_Project.csprojResolveAssemblyReference.cache
+E:\Csharp_projects\PRN292_Project\PRN292_Project\obj\Debug\PRN292_Project.Properties.Resources.resources
+E:\Csharp_projects\PRN292_Project\PRN292_Project\obj\Debug\PRN292_Project.csproj.GenerateResource.Cache
+E:\Csharp_projects\PRN292_Project\PRN292_Project\obj\Debug\PRN292_Project.csproj.CoreCompileInputs.cache
+E:\Csharp_projects\PRN292_Project\PRN292_Project\obj\Debug\PRN292_Project.exe
+E:\Csharp_projects\PRN292_Project\PRN292_Project\obj\Debug\PRN292_Project.pdb
+E:\Csharp_projects\PRN292_Project\PRN292_Project\obj\Debug\PRN292_Project.FormUser.resources
+E:\Csharp_projects\PRN292_Project\PRN292_Project\bin\Debug\PRN292_Project.exe.config
+E:\Csharp_projects\PRN292_Project\PRN292_Project\obj\Debug\PRN292_Project.EntryFormcs.resources
+E:\Csharp_projects\PRN292_Project\PRN292_Project\obj\Debug\PRN292_Project.ShopRegister.resources
+E:\Csharp_projects\PRN292_Project\PRN292_Project\obj\Debug\PRN292_Project.UserRegister.resources
+E:\Csharp_projects\PRN292_Project\PRN292_Project\obj\Debug\PRN292_Project.FormShop.resources
